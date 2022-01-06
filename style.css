@@ -1,0 +1,73 @@
+body{
+    margin: o;
+    padding: 0;
+    background: darkslateblue;
+}
+nav{
+    text-align: center;
+    margin: 20px;
+}
+nav > a{
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+}
+.port{
+    width: 100%;
+    height: auto;
+}
+.trag{
+    background: #fff;  
+}
+.inside{
+    width: 900px;
+    margin: 0 auto;
+}
+.mai{
+    background: #fff;
+}
+.about{
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+
+}
+.contact_session{
+    background: lightblue;
+    height: 500px;
+    text-align: center;
+    line-height: 1.5;
+    margin: 10px;
+}
+ h2{
+    margin: 0 20px -10px 0;
+    padding: 20px;
+    text-align: center;
+    
+}
+.drat{
+    text-align: left;
+    width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.contact_form{
+    border: 1px solid black;
+    background: #fff;
+    height: 350px;
+    width: 450px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.box{
+   width: 90%;
+   border: 0;
+   border-bottom: 2px solid black;
+}
+.xub{
+    border: 0;
+    color: #fff;
+    background: darkslateblue;
+    height: 50px;
+    width: 80px;
+}
